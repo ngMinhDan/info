@@ -21,7 +21,7 @@ export const getStaticProps = async(ctx: GetStaticPropsContext): Promise<GetStat
   } = ctx;
   const [contents, { contents: blogs }] = await Promise.all([
     getContentMultiLanguage('home', locale),
-    getBlogList(locale, { limit: 4 }),
+    getBlogList(locale, { limit: 8 }),
     generateRSSFeed()
   ]);
   return {
@@ -137,7 +137,7 @@ export default withMainLayoutPage(HomePage, (props) => {
   return {
     locale,
     meta: {
-      title: 'Sutan Gading Fadhillah Nasution',
+      title: 'nmdan.com | A life well lived',
       slug: '',
       date: meta.date,
       description: meta.description,

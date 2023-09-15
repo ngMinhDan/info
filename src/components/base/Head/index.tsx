@@ -69,8 +69,8 @@ const Head: FunctionComponent<PropsWithChildren<Props>> = (props) => {
       <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
       <meta name="google-site-verification" content="eGOhdZjNeSLIBtMneyjMwoE3fg4c4-v4okvoqNf4ZlQ" />
 
-      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-      <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+      <link rel="shortcut icon" href="/favicon.png" type="image/x-icon" />
+      <link rel="icon" href="/favicon.png" type="image/x-icon" />
 
       <meta property="og:type" content="website" />
       <meta property="og:url" content={url} />
