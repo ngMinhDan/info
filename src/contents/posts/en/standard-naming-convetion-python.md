@@ -1,9 +1,9 @@
 ---
 title: 'Standard naming conventions in Python'
 slug: {
-  en: 'standard-naming-convetion-python',
-  id: 'standard-naming-convetion-python',
-  vn: 'standard-naming-convetion-python'
+  en: "standard-naming-convetion-python",
+  id: "standard-naming-convetion-python",
+  vn: "standard-naming-convetion-python"
 }
 date: 2022-05-07
 description: 'Naming in Python Project'

@@ -1,7 +1,9 @@
 ---
 title: 'Web hoạt động như thế nào ?'
 slug: {
-  vn: "how-the-web-works"
+  vn: "how-the-web-works",
+  en: "how-the-web-works",
+  id: "how-the-web-works"
 }
 date: 2023-04-30
 description: 'Giải thích về cách hoạt động của web, browser, server'

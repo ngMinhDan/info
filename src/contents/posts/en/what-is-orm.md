@@ -1,9 +1,9 @@
 ---
 title: 'What is ORM'
 slug: {
-  en: 'what-is-orm',
-  id: 'what-is-orm',
-  vn: 'what-is-orm'
+  en: "what-is-orm",
+  id: "what-is-orm",
+  vn: "what-is-orm"
 }
 date: 2023-01-10
 description: 'My explain about ORM and ORM in Django Framework'

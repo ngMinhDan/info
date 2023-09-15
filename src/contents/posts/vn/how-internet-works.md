@@ -1,7 +1,9 @@
 ---
 title: 'Internet hoạt động như thế nào ?'
 slug: {
-  vn: "how-internet-works"
+  vn: "how-internet-works",
+  en: "how-internet-works",
+  id: "how-internet-works"
 }
 date: 2023-05-01
 description: 'Giải thích về cách hoạt động của Internet'

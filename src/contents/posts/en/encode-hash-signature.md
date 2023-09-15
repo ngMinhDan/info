@@ -1,7 +1,9 @@
 ---
 title: 'Encode, Hash, Digital Signature'
 slug: {
-  en: 'encode-hash-signature',
+  en: "encode-hash-signature",
+  vn: "encode-hash-signature",
+  id: "encode-hash-signature"
 }
 date: 2023-02-01
 description: 'My explain about Encode, Hash, Digital Signature'

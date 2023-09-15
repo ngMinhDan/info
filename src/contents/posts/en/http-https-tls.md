@@ -1,9 +1,9 @@
 ---
 title: 'What is HTTP ? HTTPS ? TLS ? SSL'
 slug: {
-  en: 'http-https-tls',
-  id: 'http-https-tls',
-  vn: 'http-https-tls'
+  en: "http-https-tls",
+  id: "http-https-tls",
+  vn: "http-https-tls"
 }
 date: 2023-02-01
 description: 'My explain about HTTP, HTTPS, TLS-SSL'

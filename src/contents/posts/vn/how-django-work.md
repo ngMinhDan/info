@@ -1,7 +1,9 @@
 ---
 title: 'Django hoạt động như thế nào ?'
 slug: {
-  vn: "how-django-work"
+  vn: "how-django-work",
+  en: "how-django-work",
+  id: "how-django-work"
 }
 date: 2022-05-07
 description: 'Chia sẻ về web framework django'

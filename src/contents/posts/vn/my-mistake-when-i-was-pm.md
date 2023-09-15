@@ -1,7 +1,9 @@
 ---
 title: 'Những sai lầm của tôi khi làm sản phẩm - Product'
 slug: {
-  vn: "my-mistake-when-i-was-pm"
+  vn: "my-mistake-when-i-was-pm",
+  en: "my-mistake-when-i-was-pm",
+  id: "my-mistake-when-i-was-pm",
 }
 date: 2023-08-01
 description: 'Kinh nghiệm, sai lầm khi build product khi làm PM'
