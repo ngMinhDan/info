@@ -12,7 +12,6 @@ type Props = {
   contents: MDContent;
   locale: string;
 };
-
 export const getStaticPaths = async(): Promise<GetStaticPathsResult> => {
   const paths = await getAllBlogPaths();
   return {
