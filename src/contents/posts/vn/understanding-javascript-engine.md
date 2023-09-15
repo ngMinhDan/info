@@ -2,7 +2,8 @@
 title: "Understanding JavaScript Engine"
 slug: {
 	en: "understanding-javascript-engine",
-	id: "memahami-javascript-engine"
+	id: "memahami-javascript-engine",
+	vn: "memahami-javascript-engine"
 }
 date: 2022-09-07
 description: "How JavaScript really works behind the scenes?"
