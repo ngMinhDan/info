@@ -1,14 +1,14 @@
 ---
-title: "Hi 👋, Vietnamese!"
-date: 2022-06-01
-description: "Software Engineer from Palembang, Indonesia 🇮🇩"
-keywords: "gading's hideout, gading homepage, gading, sutan gading, sutan gading fadhillah nasution, sutan, sutanlab, gading.dev, gading dev, gading's website, gading website"
+title: "Hi 👋, I'm Minh Dan!"
+date: 2023-09-03
+description: "Digital Product Builder from Hanoi, Vietnam 🇻🇳"
+keywords: "minhdan.info, digital product, backend, python, poker, book"
 image: "/media/banners/1.jpg"
 ---
 
-I'm currently working full-time remotely at [Alterra](https://alterra.id).
+I'm **looking** for a **full-time job** in **digital product development** in Asia as a **Product Manager** or **Developer**.
 
-Passionate to explore about modern mobile and web technology while taking into consideration about *DX (Developer Experience)*, the latest trends, and techniques. And also, I would be a fast learner in doing new things and building good teamwork either.
+Passionate to explore and build digital product while talking into consideration about ***user utility, business viability, scalable system, trends and techniques***. And also, I would be a fast learner in doing new things,  have ambtion to grown myself and building good teamwork either.
 
 ---
 

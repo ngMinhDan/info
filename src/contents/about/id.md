@@ -1,58 +1,101 @@
 ---
 title: "About"
 date: 2022-06-01
-description: "Hanya Lelaki biasa yang dapat mengubah ☕️ menjadi < /> yang cantik."
-keywords: "gading's hideout, gading homepage, gading, sutan gading, sutan gading fadhillah nasution, sutan, sutanlab, gading.dev, gading dev, who is gading, biodata gading, tentang gading"
+description: "Just an ordinary Man who love build, explore, grown day by day."
+keywords: "minhdan.info, digital product, backend, python, poker, book"
 image: "/media/banners/1.jpg"
 ---
+I am Dan, I was born 1998, 25 years old this year. I graduated from Hanoi University of Science and Technology (**HUST**) with major in **software development**. Until 2023, I have more than about **3.5 years** of experience in the field of developing digital products, especially **build product from scratch**
 
-Saya adalah ***Insinyur Perangkat Lunak*** yang berspesialisasi di ***Frontend*** dalam pekerjaan *Penuh-waktu*, dan juga dapat mengerjakan hal ***Fullstack*** dalam pekerjaan *Paruh-waktu/Freelance*.
-
-Saya bersemangat dalam mengeksplorasi tentang teknologi seluler dan web modern sambil mempertimbangkan *DX (Developer Experience)*, teknik, dan tren terbaru.
-
-Fokus utama saya adalah meningkatkan *DX* di tim Frontend, seperti menyiapkan *boilerplate*, arsitektur, standarisasi, membuat utilitas/pustaka, meneliti, dan meningkatkan kehandalan struktur di dalam *codebase*. Pekerjaan saya sebagian besar pada membangun layanan yang bukan produk *end-to-end* di sisi Frontend.
-
-Saya dapat menjadi pembelajar yang cepat dalam melakukan hal-hal baru dan membangun kerja tim yang baik. Dan juga, telah membuat beberapa proyek sampingan atau *sumber-terbuka* di [GitHub](https://github.com/gadingnst) untuk bersenang-senang, dan mungkin sudah berguna bagi orang-orang yang telah menggunakannya.
-
-#### Menyebut namaku
-Sebelum mengenal seseorang lebih lanjut, yang pertama harus kamu lakukan adalah tahu cara menyebut namanya dengan benar.
-Berikut adalah nama yang bisa kamu gunakan untuk memanggilku:
-
-###### ✅ Berikut yang ***benar*** :
-- Sutan
-- Gading *(direkomendasikan)*
-- Fadhillah
-- Nasution
-
-###### ❌ Berikut yang ***salah*** :
-- Sultan *(menambahkan `L`)*
-- Gilang *(Saya tidak tahu kenapa beberapa orang melesat begitu jauh ketika menyebut namaku)*
-- Fadillah *(kurang `H`)*
-- Fadhilah *(kurang satu `L`)*
-- Fadilah *(kurang `H` dan satu `L`)*
-
-#### Cerita di balik "Gading"
-Saya adalah seorang *pembelajar seumur hidup*. Komunitas *developer* online, proyek sumber-terbuka, mentor-mentor yang berbagi pengetahuan (yang gratis & berbayar) di internet, rekan kerja, dan teman-teman, semua orang tersebut membantu saya sampai ke titik saat ini. Dan saya sangat bersyukur untuk itu. Sejak awal saya juga membantu orang, berkontribusi pada sedikit proyek sumber-terbuka dan menerbitkan proyek saya sendiri di [GitHub](https://github.com/gadingnst?tab=repositories). Begitulah cara saya menyadari bahwa saya menikmati *technical writing* seperti di blog atau dokumentasi perangkat lunak, serta membuat konten pendidikan & berinteraksi dengan developer lain.
-
-#### Pertanyaan lebih tentangku?
-Sebelum bertanya lebih lanjut, kamu bisa lihat-lihat halaman [Now](/now) untuk mengetahui tentang keseharianku, mungkin disana kamu akan menemukan jawabannya.
+I have various roles, from Backend Programming Developer to managing as a Product Manager and Tech Leader. `I'm looking for a full-time job` in digital product development in Asia as a __Product Manager__ or __**Backend Developer**__
 
 ---
 
-#### Tentang situs ini
-Saya membangun situs ini menggunakan teknologi *JAMStack* dengan *Next.js*, kamu bisa melihat kode sumbernya [disini](https://github.com/gadingnst/gading.dev). Semua konten di situs ini sebagian besar ditulis menggunakan *Markdown* (tidak ada *database*). Jika kamu ingin membuat juga, saya menyarankan kamu untuk belajar tentang *JAMStack* terlebih dahulu, teknologi *JAMStack* sangat luas, ada banyak teknologi atau *framework* yang bisa kamu gunakan untuk membangun situs berbasis *JAMStack*, bukan hanya *Next.js* saja. *DYOR*.
+##### NIKA Tech Startup - Jan 2022, June 2023
 
-Dalam membangun situs ini, saya sangat memperhatikan segala aspek yang berkaitan dengan *performance* dan *SEO*. Oleh karena itu, saya akan menampilkan laporan *performance* website di halaman ini, dan akan selalu diperbarui secara berkala. Terima kasih kepada [Ankur Parihar](https://github.com/ankurparihar) karena telah membuat [Readme Pagespeed Insight](https://github.com/ankurparihar/readme-pagespeed-insights) yang dapat membuat laporan *performance* di situs ini secara otomatis. Berikut adalah laporan yang terakhir diupdate:
+###### [Gear5.io](https://gear5.io)
+- **What is Gear5.io**:
+  Gear5.io is a platform where users can review and discuss all the world's cryptocurrencies. It provides real-time updates on cryptocurrency information
+- **What I Did**:
+ In my role as a Product Team Leader and Tech Leader, I conducted research on market size and user needs. I managed the product backlog, feature list, designed the architecture, and coding codebase.
+ I led a team of 9 people, while working on Gear5.io, we didn't encounter many technical issues.
+ Instead, our focus was on SEO, business viability, researching the features that users actually needed
 
-##### Laporan *Performance* (Desktop)
-<PerformanceReportsDesktop />
+###### NIKA APP
+- **What is NIKA APP**:
+  NIKA App is a platform that allows you to easily manage your cryptocurrency and DeFi portfolios all in one place.
 
-##### Laporan *Performance* (Mobile)
-<PerformanceReportsMobile />
+- **What I Did**:
+ As a Product Team Leader and Tech Leader, my responsibilities is the same with Gear5.io. When working on the NIKA App, we encountered and successfully resolved numerous technical challenges.
+ My tasks included building a Data Warehouse, implementing microservices, establishing an Event-Driven Architecture, along with setting up a Distributed Database.
+
+###### 🙏 What I Learned
+  With two main products, **I've gained invaluable experience in my career, this is a grateful.** I've learned how to effectively manage teams, communicate, and conduct brainstorming sessions with stake holders to create products that are both user-utility and business viability.
+  I've also acquired the skill of building a team with a shared vision. Especially, I've learned the `mindset` of when to build a product, how to stay focused on the product, and how to decide what is the right thing to build
+
+---
+##### AfterFIT Engineering - July 2019, Jan 2022
+###### What I Did:
+   As a Software Engineer in the Monitoring Department, I served as both a Backend Engineer and Machine Learning Developer. My responsibilities included data cleaning, data processing from various sources, and the development of APIs and AI prediction systems.
+###### What I Learned
+ I had the opportunity to gain expertise in working with Cloud services such as S3, Redshift, and DynamoDB, and building Backend API systems. I also learned about the Agile Team methodology and how to report to team leaders and Japanese professionals
+
+---
+#### 🏆 What I Accomplish ?
+
+1. Graduated Hanoi Univeristy Science and Technology with CPA: **3.0/4 - 2021**
+2. **Best Presentation** in Graduate Inforamtion System Council - 2021
+3. **Full Scholarship** from Moscow Institute of Physics and Technology
+4. **TOP 4 Coin98** Blockchain Hackathon
+5. **Talented Student** Scholarship by FUNIX-Kalapa
+6. **Talented Student** Scholarship by SUN*
+
+---
+
+#### ❓ Frequently asked questions about me
+###### Can you coding ?
+Of course, I can code, familiar with Golang, especially Python, regularly build websites with Django framework for dealine. I can design system with level basic, clear understanding of database, caching, scalable backend system, DNS, etc... One more thing, I don't work in AI field but I can analyze and process data and know basic machine learning algorithm very well. With Blockchain, I'm pretty sure how bitcoin and EVM blockchain works, again I worked as a Tech Leader in previous
+
+###### Why you like to a Product Manager or Product Owner ?
+Through experience and talking and sharing with people in the IT industry, I think I have become more mature in thinking and **really enjoy learning and working** with business areas, Tech, UI-UX. With a background in Technology, I really enjoy building products. I don't want to build something beautiful, with great experiences, that is scalable but `that no one wants!` To build a successful product we have many things and everything needs to be good enough. I wana to do and manage this process
+
+###### What is your carrer path ?
+I want to be a good Product Manager and if given the opportunity, the product could be a digital product, a physical product or a service product. Let's try to do our best in the next 10 years and enjoy !
+
+
+###### What foreign languages you can speak ?
+My mother tongue is Vietnamese, I can use English professionally, Additinoal, I can work with Japanese but I haven't used Japanese much lately so I can't read articles with difficult Kanji
+
+
+###### Why do you write blog ?
+I think writing skills are very important. When writing, I must summarize and think in the view of the reader. This way I exercise my brain
+
+###### What is your hobbies ? Top 5 books you love ?
+My hobbies are book, film, poker.
+Top 3 books for me until now:
+1. Sinh nam 1972 - Nguyen Canh Binh
+2. The Alchemist - Paul Coelho
+3. The sublte art of giving fuck - Mark Manson
+
+###### Who insprise you ?
+Of course, I am a Fan of many people, who insprise me a alot and from many field. I learn from them every day
+1. Son Tung MTP - The famous singer in Vietnam
+2. Den Vau - A rapper in Vietnam
+3. Cristiano Ronaldo - The football legend
+4. Le Hong Minh - The Chairman of VNG
+5. Nguyen Ngoc Hieu - The owner of the Hieu.tv podcast.
+6. Hoang Nam Tien - From FPT Software
+7. Jorge Mendes - A professional soccer agent
+8. Steve Jobs - The Father of Apple
+9. Mr. Dinh - My previous boss
+
+###### Are you self-taught ?
+Of course, I think I learn many many things by myself, with two main sources: Book and Cousera. Now I am doing
+1. Learn [Digital Product Management Specialization](https://www.coursera.org/specializations/uva-darden-digital-product-management)
+2. Reading [Business Mode Generations](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417)
 
 ---
 
 <div className="text-center italic">
-  Salam hangat, **Sutan Gading Fadhillah Nasution**.
+  Best regards, **Nguyen Minh Dan**.
 </div>
-

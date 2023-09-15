@@ -1,15 +1,16 @@
 ---
-title: "Hai 👋, Saya Gading!"
-date: 2022-06-01
-description: "Insinyur Perangkat Lunak dari Palembang, Indonesia 🇮🇩"
-keywords: "gading's hideout, gading homepage, gading, sutan gading, sutan gading fadhillah nasution, sutan, sutanlab, gading.dev, gading dev, persembunyian gading, website gading"
+title: "こんにちは 👋, ミン・ザン　です。"
+date: 2023-09-03
+description: "ベトナム、ハノイ出身のデジタルプロダクトのビルダです 🇻🇳"
+keywords: "minhdan.info, digital product, backend, python, poker, book"
 image: "/media/banners/1.jpg"
----
-
-Saya sekarang bekerja *full-time* secara *remote* di [Alterra](https://alterra.id).
-
-Bersemangat untuk bereksplorasi tentang teknologi seluler dan web modern sambil mempertimbangkan *DX (Developer Experience)*, teknik, dan tren terbaru. Dan juga dapat menjadi pembelajar yang cepat dalam melakukan hal-hal baru dan membangun kerja tim yang baik.
 
 ---
 
-Ya, kamu telah menemukan saya di *internet*. Jadi, mari lihat-lihat dan nikmati.
+私は、**プロダクト マネージャー** と **開発者**として、アジアの **デジタル製品開発**の **フルタイムの仕事**を**探しています**。
+
+**ユーザーの利便性、ビジネスの実行可能性、スケーラブルなシステム、最新のトレンドと技術**を考慮しながら、デジタル製品を作成することに情熱を持っています。 また、新しいことを学ぶのが早く、自分自身を成長させ、良いチームワークを構築するという野心を持っています。
+
+---
+
+ありがとうございます、インターネットで私のサイトを見つけました。 それでは、見て楽しんでみましょう。

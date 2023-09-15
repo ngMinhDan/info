@@ -69,10 +69,10 @@ const Footer: FunctionComponent<Props> = (props) => {
         Opensource
         </Link>
         <div className="dark:text-white mt-8">
-          <Link className="inline-block text-primary" href="https://analytics.gading.dev/share/OBNvcvLy/Gading's%20Hideout">
+          {/* <Link className="inline-block text-primary" href="https://analytics.gading.dev/share/OBNvcvLy/Gading's%20Hideout">
             Analytics
-          </Link>
-          <span className="inline-block mx-4">&bull;</span>
+          </Link> */}
+          {/* <span className="inline-block mx-4">&bull;</span> */}
           <Link className="inline-block text-primary" href="/docs/colors">
             Colors System
           </Link>
