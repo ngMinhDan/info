@@ -3,11 +3,13 @@ import createContentLocales from './locales';
 const withLocales = createContentLocales({
   test: {
     en: 'Test!',
-    id: 'Tes!'
+    id: 'Tes!',
+    vn: 'Kiem tra'
   },
   hello: {
     en: 'Hello',
-    id: 'Halo'
+    id: 'Halo',
+    vn: 'xin chào'
   }
 });
 

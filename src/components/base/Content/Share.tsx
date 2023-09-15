@@ -61,7 +61,8 @@ const socialShares: SocialShare[] = [
 const withLocales = createContentLocales({
   share: {
     en: 'Share',
-    id: 'Bagikan'
+    id: '共有する',
+    vn: 'Chia sẻ'
   }
 });
 

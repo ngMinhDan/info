@@ -18,8 +18,9 @@ export type Props = {
 
 export const withLocales = createContentLocales({
   desc: {
-    en: 'Coding, work, life, and whatever i want.',
-    id: 'Kode, pekerjaan, kehidupan, dan apapun yang ku mau.'
+    en: 'Work, life, money, poker , and whatever i want.',
+    id: '仕事、生活、お金、なんでもいい',
+    vn: 'Công việc, cuộc sống, tiền bạc, bất kể thứ gì'
   }
 });
 

@@ -36,27 +36,28 @@ export const getStaticProps = async(ctx: GetStaticPropsContext): Promise<GetStat
 const withLocales = createContentLocales({
   myBlog: {
     en: 'Read my blog',
-    id: 'Baca blog saya'
-  },
-  myPortfolio: {
-    en: 'See my portfolio',
-    id: 'Lihat portfolio saya'
+    id: 'ブログを読む',
+    vn: 'Đọc blog'
   },
   aboutMe: {
     en: 'Learn more about me',
-    id: 'Cari tahu tentang saya'
+    id: '私について',
+    vn: 'Về tôi'
   },
   thansksVisit: {
     en: 'Thanks for visiting me',
-    id: 'Terima kasih sudah berkunjung'
+    id: '見て頂き、有難うございます',
+    vn: 'Cảm ơn đã thăm website của tôi'
   },
   recentPosts: {
     en: 'Recent posts',
-    id: 'Tulisan terbaru'
+    id: '最近のポスト',
+    vn: 'Bài viết gần đây'
   },
   seeMore: {
     en: 'See more posts',
-    id: 'Lihat tulisan lainnya'
+    id: 'もっと見たい',
+    vn: 'Đọc thêm'
   }
 });
 
@@ -98,13 +99,6 @@ const HomePage: NextPage<Props> = (props) => {
               href="/about"
               data-umami-event="homepage_see-about"
               className={`${btnClasses} bg-accent active:shadow-accent-2 hover:shadow-accent-2 mx-8`}
-            />
-            <Button
-              disableHover
-              text={locales.myPortfolio}
-              href="/portfolio"
-              data-umami-event="homepage_see-portfolio"
-              className={`${btnClasses} bg-info active:shadow-info-2 hover:shadow-info-2`}
             />
           </div>
           <p className="font-bold text-lg sm:text-xl italic text-center mt-8">

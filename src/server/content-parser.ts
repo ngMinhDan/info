@@ -21,6 +21,7 @@ import { BLOG_PAGINATION_LIMIT, DEFAULT_LOCALE } from '@/configs/env';
 export interface ContentSlug {
   en: string;
   id: string;
+  vn: string;
 }
 
 interface BlogLimit {
@@ -188,7 +189,7 @@ export async function getBlogList(language = DEFAULT_LOCALE, limitOptions?: Blog
 /**
  * Get multi language content with one slug path
  * @param contentPath - path to content
- * @param language - language of the content 'en'|'id'
+ * @param language - language of the content 'en'|'id'|'vn'
  * @returns {Promise<MDContent>} - asynchronous content string
  */
 export async function getContentMultiLanguage(contentPath: string, language = DEFAULT_LOCALE): Promise<MDContent> {

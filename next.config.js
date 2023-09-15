@@ -10,7 +10,7 @@ const nextConfig = {
   swcMinify: true,
   pageExtensions: ['ts', 'tsx'],
   i18n: {
-    locales: ['en', 'id'],
+    locales: ['en', 'id', 'vn'],
     defaultLocale: 'en'
   },
   images: {

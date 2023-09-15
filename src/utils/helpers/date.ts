@@ -13,7 +13,8 @@ export interface FormatDate {
 const getFormat = (locale: string): string => {
   const format: FormatDate = {
     en: 'MMMM DD, YYYY',
-    id: 'DD MMMM YYYY'
+    id: 'DD MMMM YYYY',
+    vn: 'DD MMMM YYYY'
   };
   return format[locale] || format.en;
 };

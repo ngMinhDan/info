@@ -20,7 +20,8 @@ export interface Props {
 
 const language = {
   en: 'English',
-  id: 'Bahasa Indonesia'
+  id: 'Japanese',
+  vn: 'Vietnamese'
 };
 
 const thumbnail = (imageUrl: string) => cloudinary(imageUrl, { scale: 0.1 });
@@ -35,7 +36,7 @@ const Head: FunctionComponent<PropsWithChildren<Props>> = (props) => {
   const {
     title,
     slug,
-    description = 'Software Engineer from Palembang, Indonesia 🇮🇩',
+    description = 'Person from Vietnamese',
     image = `${BASE_URL}/assets/images/authors/gading-talks.jpeg`,
     date = day().format('YYYY-MM-DD'),
     keywords = '',
