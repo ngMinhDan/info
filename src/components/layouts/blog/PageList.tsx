@@ -58,7 +58,7 @@ const BlogPageList: FunctionComponent<Props> = (props) => {
             Blog
           </h1>
           <p className="text-lg opacity-0 px-8 text-white dark:text-white animate-[y-b-25_.3s_ease-in-out_.2s_1_normal_forwards]">
-            {locales.desc}”
+            {locales.desc}
           </p>
         </div>
       </Banner>

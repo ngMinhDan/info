@@ -10,7 +10,7 @@ import IconMail from '$/assets/icons/tools/mail.svg';
 import IconBriefcase from '$/assets/icons/tools/briefcase.svg';
 import imgReportDesktop from '$/assets/images/reports/desktop.svg?url';
 import imgReportMobile from '$/assets/images/reports/mobile.svg?url';
-import imgProfile from '$/assets/images/authors/gading-talks.jpeg';
+import imgProfile from '$/assets/images/authors/minhdan.png';
 
 type Props = {
   contents: MDContent;
@@ -50,10 +50,10 @@ const LeftDesc = ({ className = 'hidden md:flex' }) => (
     </div>
     <div className="group hover:util--text-shadow dark:hover:util--text-shadow-white">
       <div className="transition-transform duration-200 hover:cursor-pointer group-hover:-translate-y-4">
-        😴
+      🤓
       </div>
       <p className="text-light-20 dark:text-light-20">
-        Slacker
+        Problem Slover
       </p>
     </div>
   </div>
@@ -64,7 +64,7 @@ const RightDesc = ({ className = 'hidden md:flex' }) => (
   <div className={`${className} items-center h-[30px] flex-1 justify-center`}>
     <Button
       disableHover
-      href="mailto:contact@gading.dev"
+      href="mailto:ngmd.works@gmail.com"
       data-umami-event="about_contact"
       className={`${rightDescBtnClasses} bg-primary active:shadow-primary-2 hover:shadow-primary-2`}
     >
@@ -109,7 +109,7 @@ const AboutPage: NextPage<Props> = (props) => {
             {AUTHOR_NAME}
           </h1>
           <p className="opacity-0 text-lg px-8 text-white dark:text-white animate-[y-b-25_.3s_ease-in-out_.2s_1_normal_forwards]">
-            {meta.description}”
+            {meta.description}
           </p>
         </div>
       </Banner>
@@ -137,7 +137,7 @@ const AboutPage: NextPage<Props> = (props) => {
               <LeftDesc className="flex h-[auto]" />
             </div>
             <h3 className="text-center font-semibold mb-36">
-              Sutan <span className="text-primary dark:text-accent-2 hover:cursor-pointer hover:underline underline-offset-4">Gading</span> Fadhillah Nasution
+              <span className="text-primary dark:text-accent-2 hover:cursor-pointer hover:underline underline-offset-4">Nguyen Minh Dan</span>
             </h3>
             <ContentParser components={{ PerformanceReportsDesktop, PerformanceReportsMobile }}>
               {content}

@@ -1,47 +1,49 @@
 ---
-title: "About"
+title: "私について"
 date: 2022-06-01
-description: "Just an ordinary Man who love build, explore, grown day by day."
+description: "建築したり、探索したりするのが大好きで、日々成長している普通の男性です。"
 keywords: "minhdan.info, digital product, backend, python, poker, book"
 image: "/media/banners/1.jpg"
 ---
-I am Dan, I was born 1998, 25 years old this year. I graduated from Hanoi University of Science and Technology (**HUST**) with major in **software development**. Until 2023, I have more than about **3.5 years** of experience in the field of developing digital products, especially **build product from scratch**
 
-I have various roles, from Backend Programming Developer to managing as a Product Manager and Tech Leader. `I'm looking for a full-time job` in digital product development in Asia as a __Product Manager__ or __**Backend Developer**__
+私はザンです。今年25歳です。ソフトウェア開発を専攻して、ハノイ工科大学（Hanoi University of Science and Technology、HUST）を卒業しました。2023年までに、デジタル製品の開発分野で約3.5年以上の経験があり、特にゼロから製品を構築することに長けています。
+
+バックエンドプログラミング開発者からプロダクトマネージャーまで、色々な役割を担当しました。アジアでのデジタル製品開発におけるフルタイムの職を、**プロダクトマネージャーまたはバックエンド開発者として探しています**
 
 ---
 
-##### NIKA Tech Startup - Jan 2022, June 2023
+##### NIKA Tech Startup - May 2022, June 2023
 
 ###### [Gear5.io](https://gear5.io)
-- **What is Gear5.io**:
-  Gear5.io is a platform where users can review and discuss all the world's cryptocurrencies. It provides real-time updates on cryptocurrency information
-- **What I Did**:
- In my role as a Product Team Leader and Tech Leader, I conducted research on market size and user needs. I managed the product backlog, feature list, designed the architecture, and coding codebase.
- I led a team of 9 people, while working on Gear5.io, we didn't encounter many technical issues.
- Instead, our focus was on SEO, business viability, researching the features that users actually needed
+- **Gear5.ioは何ですか**:
+Gear5.ioは、ユーザーが世界中のすべての暗号通貨についてレビューし、議論するプラットフォームです。暗号通貨情報のリアルタイム更新を提供します。
+- **どんな仕事を担当した**:
+私の役割として、プロダクトチームリーダーとテックリーダーとして、市場規模とユーザーのニーズに関する調査を実施しました。製品のバックログと機能リストを管理し、アーキテクチャを設計し、コードベースをコーディングしました。
+
+私は9人のチームをリードしましたが、Gear5.ioでの作業中には技術的な問題がないと思います。その代わり、私たちの焦点はSEO、ビジネスの実現可能性、ユーザーが実際に必要とする機能の調査にありました
 
 ###### NIKA APP
-- **What is NIKA APP**:
-  NIKA App is a platform that allows you to easily manage your cryptocurrency and DeFi portfolios all in one place.
+- **NIKA APPは何ですか**:
+NIKAアプリは、暗号通貨とDeFiポートフォリオを1か所で簡単に管理できるプラットフォームです
 
-- **What I Did**:
- As a Product Team Leader and Tech Leader, my responsibilities is the same with Gear5.io. When working on the NIKA App, we encountered and successfully resolved numerous technical challenges.
- My tasks included building a Data Warehouse, implementing microservices, establishing an Event-Driven Architecture, along with setting up a Distributed Database.
+- **どんな仕事を担当した**:
+NIKAアプリを作成する時、多くの技術的な課題に遭遇し、それを成功裏に解決しました。
+私の仕事には、データウェアハウスの構築、マイクロサービスの実装、イベント駆動型アーキテクチャの確立、分散データベースの設定が含まれていました。
 
-###### 🙏 What I Learned
-  With two main products, **I've gained invaluable experience in my career, this is a grateful.** I've learned how to effectively manage teams, communicate, and conduct brainstorming sessions with stake holders to create products that are both user-utility and business viability.
-  I've also acquired the skill of building a team with a shared vision. Especially, I've learned the `mindset` of when to build a product, how to stay focused on the product, and how to decide what is the right thing to build
+###### 🙏 私が学んだ事
 
----
-##### AfterFIT Engineering - July 2019, Jan 2022
-###### What I Did:
-   As a Software Engineer in the Monitoring Department, I served as both a Backend Engineer and Machine Learning Developer. My responsibilities included data cleaning, data processing from various sources, and the development of APIs and AI prediction systems.
-###### What I Learned
- I had the opportunity to gain expertise in working with Cloud services such as S3, Redshift, and DynamoDB, and building Backend API systems. I also learned about the Agile Team methodology and how to report to team leaders and Japanese professionals
+2つの主要な製品を持つことで、キャリアで**非常に貴重な経験を積むことができました。これに感謝しています**。チームの効果的な管理方法、ステークホルダーとのコミュニケーション、ブレインストーミングセッションの実施方法を学び、ユーザーにとって有用でビジネスに適した製品を作成するスキルを習得しました。
+共通のビジョンを持つチームを構築するスキルも習得しました。 特に、いつ製品を構築するか、製品に集中する方法、**そして何を構築するのが正しいかを判断する方法についての「考え方」を学びました。**
 
 ---
-#### 🏆 What I Accomplish ?
+##### AfterFIT Engineering - May 2022
+###### どんな仕事を担当した:
+ソフトウェア エンジニアとして、バックエンド エンジニアと機械学習開発者の両方を務めました。 私の責任には、データ クリーニング、さまざまなソースからのデータ処理、API と AI 予測システムの開発が含まれます。
+###### 私が学んだ事
+S3、Redshift、DynamoDB などのクラウド サービスの操作やバックエンド API システムの構築に関する専門知識を得る機会がありました。 また、アジャイルチームの方法論や、チームリーダーや日本の専門家への報告方法についても学びました。
+
+---
+#### 🏆 私が達成したこと ?
 
 1. Graduated Hanoi Univeristy Science and Technology with CPA: **3.0/4 - 2021**
 2. **Best Presentation** in Graduate Inforamtion System Council - 2021
@@ -52,33 +54,34 @@ I have various roles, from Backend Programming Developer to managing as a Produc
 
 ---
 
-#### ❓ Frequently asked questions about me
-###### Can you coding ?
-Of course, I can code, familiar with Golang, especially Python, regularly build websites with Django framework for dealine. I can design system with level basic, clear understanding of database, caching, scalable backend system, DNS, etc... One more thing, I don't work in AI field but I can analyze and process data and know basic machine learning algorithm very well. With Blockchain, I'm pretty sure how bitcoin and EVM blockchain works, again I worked as a Tech Leader in previous
+#### ❓ 私に関してよくある質問
+###### コーディングはできますか ?
+もちろん！、プログラミングが出来、Golang、特に Python に精通しており、Django フレームワークを使用して Web サイトを定期的に構築しています。 基本的なレベルでシステムを設計でき、データベース、キャッシュ、スケーラブルなバックエンド システム、DNS などを明確に理解できます。
 
-###### Why you like to a Product Manager or Product Owner ?
-Through experience and talking and sharing with people in the IT industry, I think I have become more mature in thinking and **really enjoy learning and working** with business areas, Tech, UI-UX. With a background in Technology, I really enjoy building products. I don't want to build something beautiful, with great experiences, that is scalable but `that no one wants!` To build a successful product we have many things and everything needs to be good enough. I wana to do and manage this process
+AI 分野で働いていませんが、データの分析と処理ができ、基本的な機械学習アルゴリズムを知っています。 非常によく。 ブロックチェーンに関しては、ビットコインと EVM ブロックチェーンがどのように機能するかをよく理解しています。これも前にテクノロジー リーダーとして働いていました。
 
-###### What is your carrer path ?
-I want to be a good Product Manager and if given the opportunity, the product could be a digital product, a physical product or a service product. Let's try to do our best in the next 10 years and enjoy !
+###### なぜプロダクトマネージャーが好きですか ?
+IT 業界の人々との経験や会話、共有を通じて、考え方がより成熟し、ビジネス分野、テクノロジー、UI-UX について学び、働くことを本当に楽しんでいるようになったと思います。
+テクノロジーの背景があるので、製品を作るのが本当に好きです。 優れたエクスペリエンスを備えた、スケーラブルでありながら「誰も望んでいない」ものを作りたいわけではありません。成功する製品を作るためには、多くのものがあり、すべてが十分に優れている必要があると思います。 このプロセスを実行および管理したい
 
+###### キャリアパスは何ですか ?
+優れたプロダクトマネージャーになりたいと思っています。機会があれば、その製品はデジタル製品、物理的な製品、またはサービス製品になる可能性があります。 次の10年も頑張って楽しんでいきましょう！
 
-###### What foreign languages you can speak ?
-My mother tongue is Vietnamese, I can use English professionally, Additinoal, I can work with Japanese but I haven't used Japanese much lately so I can't read articles with difficult Kanji
+###### 話せる外国語は何ですか ?
+仕事では英語、日本語を使うことができます。 私の母国語はベトナム語です
 
+###### なぜブログを書くのか?
+文章を書くスキルはとても大切だと思います。 書くときは、読み手の視点で要約して考える必要があります。 こうやって頭の体操をするんだ
+###### 趣味は何ですか ？ 好きな本トップ5 ?
+私の趣味は本、映画、ポーカーです。
+今までの私の中でベスト３の本は、
 
-###### Why do you write blog ?
-I think writing skills are very important. When writing, I must summarize and think in the view of the reader. This way I exercise my brain
-
-###### What is your hobbies ? Top 5 books you love ?
-My hobbies are book, film, poker.
-Top 3 books for me until now:
 1. Sinh nam 1972 - Nguyen Canh Binh
 2. The Alchemist - Paul Coelho
 3. The sublte art of giving fuck - Mark Manson
 
-###### Who insprise you ?
-Of course, I am a Fan of many people, who insprise me a alot and from many field. I learn from them every day
+###### インスピレーションを与える人は誰ですか ?
+多くの人々のファンであり、多くの分野から私に多くのインスピレーションを与えてくれます。 毎日彼らから学んでいます
 1. Son Tung MTP - The famous singer in Vietnam
 2. Den Vau - A rapper in Vietnam
 3. Cristiano Ronaldo - The football legend
@@ -90,7 +93,8 @@ Of course, I am a Fan of many people, who insprise me a alot and from many field
 9. Mr. Dinh - My previous boss
 
 ###### Are you self-taught ?
-Of course, I think I learn many many things by myself, with two main sources: Book and Cousera. Now I am doing
+Book と Cousera という 2 つの主な情報源を使って、多くのことを自分で学んでいると思います。 今私はやっています
+
 1. Learn [Digital Product Management Specialization](https://www.coursera.org/specializations/uva-darden-digital-product-management)
 2. Reading [Business Mode Generations](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417)
 

@@ -64,10 +64,10 @@ const Footer: FunctionComponent<Props> = (props) => {
         <span className="inline-block">&copy;&nbsp;{new Date().getFullYear()}&nbsp;</span>
         <Link className="inline-block" href={BASE_URL}>{SITE_NAME}</Link>
         <span className="inline-block mx-4">&bull;</span>
-        <span className="inline-block mx-2">Build with</span>
-        <Link className="inline-block text-primary mx-2" href="https://github.com/gadingnst/gading.dev">
+        <span className="inline-block mx-2">Build on Opensource</span>
+        {/* <Link className="inline-block text-primary mx-2" href="">
         Opensource
-        </Link>
+        </Link> */}
         <div className="dark:text-white mt-8">
           {/* <Link className="inline-block text-primary" href="https://analytics.gading.dev/share/OBNvcvLy/Gading's%20Hideout">
             Analytics

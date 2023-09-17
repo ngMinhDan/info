@@ -44,11 +44,10 @@ I have various roles, from Backend Programming Developer to managing as a Produc
 #### 🏆 What I Accomplish ?
 
 1. Graduated Hanoi Univeristy Science and Technology with CPA: **3.0/4 - 2021**
-2. **Best Presentation** in Graduate Inforamtion System Council - 2021
-3. **Full Scholarship** from Moscow Institute of Physics and Technology
-4. **TOP 4 Coin98** Blockchain Hackathon
-5. **Talented Student** Scholarship by FUNIX-Kalapa
-6. **Talented Student** Scholarship by SUN*
+2. **Full Scholarship** from Moscow Institute of Physics and Technology
+3. **TOP 4 Coin98** Blockchain Hackathon
+4. **Talented Student** Scholarship by FUNIX-Kalapa
+5. **Talented Student** Scholarship by SUN*
 
 ---
 
@@ -59,13 +58,12 @@ Of course, I can code, familiar with Golang, especially Python, regularly build 
 ###### Why you like to a Product Manager or Product Owner ?
 Through experience and talking and sharing with people in the IT industry, I think I have become more mature in thinking and **really enjoy learning and working** with business areas, Tech, UI-UX. With a background in Technology, I really enjoy building products. I don't want to build something beautiful, with great experiences, that is scalable but `that no one wants!` To build a successful product we have many things and everything needs to be good enough. I wana to do and manage this process
 
-###### What is your carrer path ?
+###### What is your career path ?
 I want to be a good Product Manager and if given the opportunity, the product could be a digital product, a physical product or a service product. Let's try to do our best in the next 10 years and enjoy !
 
 
 ###### What foreign languages you can speak ?
-My mother tongue is Vietnamese, I can use English professionally, Additinoal, I can work with Japanese but I haven't used Japanese much lately so I can't read articles with difficult Kanji
-
+I can use English, Japanese for work. My mother language is Vietnamese
 
 ###### Why do you write blog ?
 I think writing skills are very important. When writing, I must summarize and think in the view of the reader. This way I exercise my brain
@@ -78,7 +76,7 @@ Top 3 books for me until now:
 3. The sublte art of giving fuck - Mark Manson
 
 ###### Who insprise you ?
-Of course, I am a Fan of many people, who insprise me a alot and from many field. I learn from them every day
+Of course, I am a Fan of many people, who inspire me a alot and from many field. I learn from them every day
 1. Son Tung MTP - The famous singer in Vietnam
 2. Den Vau - A rapper in Vietnam
 3. Cristiano Ronaldo - The football legend

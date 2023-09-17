@@ -21,7 +21,7 @@ export const getStaticProps = async(ctx: GetStaticPropsContext): Promise<GetStat
   } = ctx;
   const [contents, { contents: blogs }] = await Promise.all([
     getContentMultiLanguage('home', locale),
-    getBlogList(locale, { limit: 8 }),
+    getBlogList(locale, { limit: 4 }),
     generateRSSFeed()
   ]);
   return {
@@ -76,7 +76,7 @@ const HomePage: NextPage<Props> = (props) => {
             {meta.title}
           </h1>
           <p className="text-lg px-8 text-white dark:text-white opacity-0 animate-[y-b-25_.3s_ease-in-out_.2s_1_normal_forwards]">
-            {meta.description}”
+            {meta.description}
           </p>
         </div>
       </Banner>

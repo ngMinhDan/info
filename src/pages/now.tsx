@@ -39,7 +39,7 @@ const NowPage: NextPage<Props> = (props) => {
             {meta.title}
           </h1>
           <p className="text-lg px-8 text-white dark:text-white opacity-0 animate-[y-b-25_.3s_ease-in-out_.2s_1_normal_forwards]">
-            {meta.description}”
+            {meta.description}
           </p>
         </div>
       </Banner>

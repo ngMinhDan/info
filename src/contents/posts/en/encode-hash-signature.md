@@ -12,7 +12,6 @@ tags: ['technical', 'security', 'basic']
 image: '/media/banners/2.jpg'
 ---
 #### Encode
-
 Encoding and decoding, such as base64 encoding is not cryptographic hash function.
 
 1. **Encoding**

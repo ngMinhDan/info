@@ -1,15 +1,12 @@
 ---
-title: "Hi 👋, I'm Minh Dan!"
+title: "Xin chào 👋, Tôi là Minh Dân!"
 date: 2023-09-03
-description: "Digital Product Builder from Hanoi, Vietnam 🇻🇳"
+description: "Coder, người thích làm sản phẩm 🇻🇳"
 keywords: "minhdan.info, digital product, backend, python, poker, book"
 image: "/media/banners/1.jpg"
 ---
 
-I'm **looking** for a **full-time job** in **digital product development** in Asia as a **Product Manager** or **Developer**.
-
-Passionate to explore and build digital product while talking into consideration about ***user utility, business viability, scalable system, trends and techniques***. And also, I would be a fast learner in doing new things,  have ambtion to grown myself and building good teamwork either.
+Yêu thích việc khám phá, xây dựng sản phẩm kỹ thuật số. Mong muốn tạo ra sản phẩm **giải quyết vấn đề thực sự của người dùng, lợi nhuận về kinh tế cho công ty, hệ thống có khả năng mở rộng**. Tôi cũng là một người tự học nhanh, có mong muốn phát triển bản thân mỗi ngày và có khả năng xây dựng tinh thần đồng đội tốt
 
 ---
-
-Yeah, you've found me on the internet. So let's take a look and enjoy.
+Bạn đã tìm thấy tôi trên internet, cảm ơn bạn !
