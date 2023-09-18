@@ -64,11 +64,11 @@ const RightDesc = ({ className = 'hidden md:flex' }) => (
   <div className={`${className} items-center h-[30px] flex-1 justify-center`}>
     <Button
       disableHover
-      href="mailto:ngmd.works@gmail.com"
+      href={`${BASE_URL}/pr`}
       data-umami-event="about_contact"
       className={`${rightDescBtnClasses} bg-primary active:shadow-primary-2 hover:shadow-primary-2`}
     >
-      <SVG size={16} className="mr-4" fill="white" src={IconMail} /> Contact
+      <SVG size={16} className="mr-4" fill="white" src={IconMail} /> 自己 PR
     </Button>
     <Button
       disableHover
