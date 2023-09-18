@@ -73,7 +73,7 @@ const Footer: FunctionComponent<Props> = (props) => {
             Analytics
           </Link> */}
           {/* <span className="inline-block mx-4">&bull;</span> */}
-          <Link className="inline-block text-primary" href="/docs/colors">
+          {/* <Link className="inline-block text-primary" href="/docs/colors">
             Colors System
           </Link>
           <span className="inline-block mx-4">&bull;</span>
@@ -83,7 +83,7 @@ const Footer: FunctionComponent<Props> = (props) => {
           <span className="inline-block mx-4">&bull;</span>
           <Link className="inline-block text-primary" href={`${BASE_URL}/sitemap.xml`}>
             Sitemap
-          </Link>
+          </Link> */}
         </div>
       </div>
     </footer>
