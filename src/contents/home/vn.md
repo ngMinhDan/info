@@ -9,4 +9,4 @@ image: "/media/banners/1.jpg"
 Yêu thích việc khám phá, xây dựng sản phẩm kỹ thuật số. Mong muốn tạo ra sản phẩm **giải quyết vấn đề thực sự của người dùng, lợi nhuận về kinh tế cho công ty, hệ thống có khả năng mở rộng**. Tôi cũng là một người tự học nhanh, có mong muốn phát triển bản thân mỗi ngày và có khả năng xây dựng tinh thần đồng đội tốt
 
 ---
-Bạn đã tìm thấy tôi trên internet, cảm ơn bạn !
+Bạn đã tìm thấy tôi trên internet, cảm ơn bạn đã ghé thăm!
