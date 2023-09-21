@@ -1,5 +1,5 @@
 ---
-title: 'My mistake when work with database - Part 1'
+title: 'My mistake when working with database - Part 1'
 slug: {
   vn: "mistake-with-database-1",
   en: "mistake-with-database-1",
@@ -12,7 +12,7 @@ tags: ['web', 'coding', 'django', 'technical', 'database', 'postgresql']
 image: '/media/banners/bat.jpeg'
 ---
 
-I'm a recent graduate from Hanoi University of Science and Technology, majoring in the Vietnamese-Japanese program. Just a few months after graduation, I took on the responsibility of developing products for a startup and led a team of about 7-10 people. Despite working diligently for over a year, I've realized that I've made many mistakes and have gaps in my knowledge. Recently, in addition to learning foreign languages, I've been focusing on studying these issues in-depth, and now I'd like to share my findings with everyone.
+From a student graduated from Hanoi University of Science and Technology, majoring in the Hedspi program 2021. Just a few months after graduation, I took on the responsibility of developing products for a startup and led a team of about 7-10 people. Despite working diligently for over a year, I've realized that I've made many mistakes and have gaps in my knowledge. Recently, in addition to learning foreign languages, I've been focusing on studying these issues in-depth, and now I'd like to share my findings with everyone.
 
 Because I have limited work experience compared to many others and have only relied on what I learned in school, I've made mistakes and learned from them. I hope that you can provide feedback to help me improve and contribute to the community's knowledge and expertise
 
