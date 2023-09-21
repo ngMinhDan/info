@@ -78,4 +78,4 @@ Tại sao lại là cố gắng sống sót và cố gắng chống lỗi, vì t
 Ở các bài viết tiếp theo mình sẽ đề cập đến việc: sai lầm trong thiết kế CSDL (Đặt tên, thiết kế bảng, MQH, đánh index), các vấn đề  khi vận hành CSDL(N+1, Max Connections...), Sai lầm của mình khi sử dụng Master Slave và Citus Data.
 
 ---
-Những kiến thức này chủ yếu là mình tự học và rút kinh nghiệm, tuy nhiên sẽ không thể biết mà từ học nếu không có sự giúp đỡ, hướng dẫn của anh Dinh CTO Simper - CEO NIKA, team devs NIKA,  cô Trinh dạy Data Modeling, cô Trang dạy OOP, ITSS từ ĐHBK HN
+Những kiến thức này chủ yếu là mình tự học và rút kinh nghiệm, tuy nhiên sẽ không thể biết mà từ học nếu không có sự giúp đỡ, trao cơ hội từ CEO, team devs, cô Trinh dạy Data Modeling, cô Trang dạy OOP, ITSS từ ĐHBK HN

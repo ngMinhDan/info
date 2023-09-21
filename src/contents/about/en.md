@@ -85,7 +85,7 @@ Of course, I am a Fan of many people, who inspire me a alot and from many field.
 6. Hoang Nam Tien - From FPT Software
 7. Jorge Mendes - A professional soccer agent
 8. Steve Jobs - The Father of Apple
-9. Mr. Dinh - My previous boss
+9. Mr. Dinh
 
 ###### Are you self-taught ?
 Of course, I think I learn many many things by myself, with two main sources: Book and Cousera. Now I am doing

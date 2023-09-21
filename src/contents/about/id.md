@@ -90,7 +90,7 @@ IT 業界の人々との経験や会話、共有を通じて、考え方がよ�
 6. Hoang Nam Tien - From FPT Software
 7. Jorge Mendes - A professional soccer agent
 8. Steve Jobs - The Father of Apple
-9. Mr. Dinh - My previous boss
+9. Mr. Dinh
 
 ###### Are you self-taught ?
 Book と Cousera という 2 つの主な情報源を使って、多くのことを自分で学んでいると思います。 今私はやっています
