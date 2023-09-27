@@ -34,11 +34,26 @@ I have various roles, from Backend Programming Developer to managing as a Produc
   I've also acquired the skill of building a team with a shared vision. Especially, I've learned the `mindset` of when to build a product, how to stay focused on the product, and how to decide what is the right thing to build
 
 ---
-##### AfterFIT Engineering - July 2019, Jan 2022
+##### AfterFIT Engineering
 ###### What I Did:
    As a Software Engineer in the Monitoring Department, I served as both a Backend Engineer and Machine Learning Developer. My responsibilities included data cleaning, data processing from various sources, and the development of APIs and AI prediction systems.
 ###### What I Learned
  I had the opportunity to gain expertise in working with Cloud services such as S3, Redshift, and DynamoDB, and building Backend API systems. I also learned about the Agile Team methodology and how to report to team leaders and Japanese professionals
+
+---
+##### Hanoi University Science and Technology
+###### [iMovie](https://www.youtube.com/watch?v=iVZ4qBHkLj0)
+- **What is iMovie**:
+  iMovie is like a social media for movie fans. You can check out movies, write reviews, and find others who love movies just like you. It was inspired for book lover goodreads.cơm.
+  This product make me got award best presentation in graduate conuncil fo system information by SOICT - HUST 2021.
+- **What I Did**:
+ I created this website using the Django framework. I coded a full-text search function in Python and implemented content-based and collaborative filtering to recommend friends and movies to users.
+
+###### [Library Management Sotfware](https://www.youtube.com/watch?v=puFEjiQrMvo)
+- **What is this**:
+ This is software that allows library staff to easily create, edit, and delete books in the library, as well as manage book borrowing and returns.
+- **What I Did**:
+  I built this software using JavaFX and a MySQL database. This is the first time I've created a product that is fully functional and ready for people to use.
 
 ---
 #### 🏆 What I Accomplish ?
@@ -85,7 +100,6 @@ Of course, I am a Fan of many people, who inspire me a alot and from many field.
 6. Hoang Nam Tien - From FPT Software
 7. Jorge Mendes - A professional soccer agent
 8. Steve Jobs - The Father of Apple
-9. Mr. Dinh
 
 ###### Are you self-taught ?
 Of course, I think I learn many many things by myself, with two main sources: Book and Cousera. Now I am doing

@@ -43,6 +43,24 @@ NIKAアプリを作成する時、多くの技術的な課題に遭遇し、そ�
 S3、Redshift、DynamoDB などのクラウド サービスの操作やバックエンド API システムの構築に関する専門知識を得る機会がありました。 また、アジャイルチームの方法論や、チームリーダーや日本の専門家への報告方法についても学びました。
 
 ---
+##### Hanoi University Science and Technology
+###### [iMovie](https://www.youtube.com/watch?v=iVZ4qBHkLj0)
+- **What is iMovie**:
+  iMovieは映画ファン向けのソーシャルメディアのようなものです。映画をチェックしたり、レビューを書いたり、映画を愛する他の人を見つけることができます。
+  このアイデアは、本好きなGoodreads.comからインスパイアされました。
+  この製品は、私にとって最優秀プレゼンテーション賞を受賞させました。それはSOICT - HUST 2021年のシステム情報卒業評議会でのことです。
+- **What I Did**:
+このウェブサイトは、Djangoフレームワークを使用して作成しました。Pythonでフルテキスト検索機能をコーディングし、コンテンツベースおよび協調フィルタリングを実装して、ユーザーに友達や映画をおすすめしています。
+
+###### [Library Management Sotfware](https://www.youtube.com/watch?v=puFEjiQrMvo)
+- **What is this**:
+これは、図書館のスタッフが図書館内で簡単に本の作成、編集、削除、および貸し出しと返却の管理ができるソフトウェアです。
+- **What I Did**:
+ このソフトウェアは、JavaFXとMySQLデータベースを使用して作成しました。これは、初めて人々が使用できる完全な機能を備えた製品を作成したことです。
+
+
+---
+
 #### 🏆 私が達成したこと ?
 
 1. Graduated Hanoi Univeristy Science and Technology with CPA: **3.0/4 - 2021**
@@ -90,7 +108,6 @@ IT 業界の人々との経験や会話、共有を通じて、考え方がよ�
 6. Hoang Nam Tien - From FPT Software
 7. Jorge Mendes - A professional soccer agent
 8. Steve Jobs - The Father of Apple
-9. Mr. Dinh
 
 ###### Are you self-taught ?
 Book と Cousera という 2 つの主な情報源を使って、多くのことを自分で学んでいると思います。 今私はやっています
