@@ -25,10 +25,9 @@ Thực tế mọi chuyện đến đây không có gì sai cả và hoàn toán 
 
 Tuy nhiên khi business đang mong muốn làm hoặc giải quyết những điều sau thì các kỹ sư sẽ phải triển khai mở rộng hệ thống (scale backend, scale database …). Trong bài này sẽ mình nói về scale database với kiến trúc Master Slave:
 
-1. **Data Growth** - Lượng dữ liệu sẽ tăng lên theo thời gian, có thể vượt khả năng sức chứa của của server hiện tại.
-2. **Concurrency** - Khi bạn muốn sản phẩm của mình đáp ứng tốt khả năng sử dụng đồng thời của nhiều người dùng. Cho phép nhiều thao tác đọc, ghi đồng thời vào database
-3. **Load** - Nhiều người dùng truy cập và nhiều dữ liệu khiến database chậm phản hồi. Bạn không muốn điều đó hoặc giảm thời gian phản hồi xuống
-4. **High availability** - Bạn muốn ứng dụng của bạn luôn chạy dù có vấn đề gì xảy ra đi nữa, vì nó ảnh hưởng đến lợi nhuận của doanh nghiệp và công việc của khách hàng. Một server bị trục trặc, ngay lập tức phải có server khác đảm nhận.
+1. **Concurrency** - Khi bạn muốn sản phẩm của mình đáp ứng tốt khả năng sử dụng đồng thời của nhiều người dùng. Cho phép nhiều thao tác đọc, ghi đồng thời vào database
+2. **Load** - Nhiều người dùng truy cập và nhiều dữ liệu khiến database chậm phản hồi. Bạn không muốn điều đó hoặc giảm thời gian phản hồi xuống
+3. **High availability** - Bạn muốn ứng dụng của bạn luôn chạy dù có vấn đề gì xảy ra đi nữa, vì nó ảnh hưởng đến lợi nhuận của doanh nghiệp và công việc của khách hàng. Một server bị trục trặc, ngay lập tức phải có server khác đảm nhận.
 
 Khi bạn muốn giải quyết và thực hiện các vấn đề trên. Chúng ta sẽ cần mở rộng database và trong bài viết này sẽ nói đến **cách mở rộng database với kiến trúc Master Slave** (Tuy nhiên kiến trúc này **không hoàn toàn có thể giải quyết** được tất cả các vấn đề trên một cách hoàn hảo - 100% ~ cùng tìm hiểu nhé)
 
@@ -61,7 +60,7 @@ Thực tế khi tìm hiểu đến đây và áp dụng cho product tại công 
 **Sai lầm của mình**: Mình đã từng design và sau khi học xong đã tự tin apply synchronous replication để đảm bảo việc không bị **inconsistency nhưng nó phát sinh ra vấn đề khác.**
 Mình có 3 slave server hay có thể gọi là 3 nodes và một master node. Theo lý thuyết: khi có một hành động WRITE, master sẽ gửi WAL đến các slave node. Đợi đến khi cả 3 slave node đồng bộ xong, lệnh mới được thi. **HÀNH ĐỘNG WRITE NÀY ĐÃ BỊ CHẬM ĐI - LATENCY tăng lên.**
 
-**Tuy nhiên KHI MỘT TRONG 3 NODE, không đồng bộ được ~ đã xảy ra vấn đề. Thì HÀNH ĐỘNG SẼ MÃI CHỜ, KHÔNG ĐƯỢC THỰC THI TRÊN CẢ MASTER VÀ TẤT CẢ. Vô tình tạo ra một nút thắt cổ chai - bottle neck cực lớn.**
+**Tuy nhiên KHI MỘT TRONG 3 NODE, không đồng bộ được ~ đã xảy ra vấn đề. Thì HÀNH ĐỘNG SẼ MÃI CHỜ, KHÔNG ĐƯỢC THỰC THI TRÊN CẢ MASTER VÀ TẤT CẢ. Vô tình tạo ra SINGLE POINT OF FAILURE của toàn bộ hệ thống**
 
 ![](/media/blog/scale-database-with-master-slave/dif.png)
 

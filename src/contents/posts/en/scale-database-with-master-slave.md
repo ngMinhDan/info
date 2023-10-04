@@ -24,10 +24,9 @@ In reality, there's nothing wrong with this approach and it's entirely correct i
 
 However, when a business aims to achieve the following, engineers will need to implement system expansion (scaling the backend, scaling the database). In this article, I will share about scaling the database with a Master-Slave architecture:
 
-1. **Data Growth** - Data volume will increase over time and may exceed the current server's storage capacity.
-2. **Concurrency** - When you want your product to handle concurrent usage by multiple users effectively, allowing multiple read and write operations to the database simultaneously.
-3. **Load** - Many users access the system, there is a large amount of data, causing the database to respond slowly. You want to avoid this or reduce response times.
-4. **High Availability** - You want your application to keep running no matter what happens. If one server fails, another must immediately take over.
+1. **Concurrency** - When you want your product to handle concurrent usage by multiple users effectively, allowing multiple read and write operations to the database simultaneously.
+2. **Load** - Many users access the system, there is a large amount of data, causing the database to respond slowly. You want to avoid this or reduce response times.
+3. **High Availability** - You want your application to keep running no matter what happens. If one server fails, another must immediately take over.
 
 When you want to slove the issues mentioned above, we will need to scale the database, in this article, we will discuss scaling the database with a Master-Slave architecture. (However, it's important to note **that this architecture may not entirely solve all the issues perfectly - 100%** ~ let's explore together)
 
@@ -59,7 +58,8 @@ At this point, there are **two replication modes** to address some of these conc
 My Mistake: I once designed and confidently applied **synchronous replication** to ensure no "inconsistencies," but it gave rise to another issue.
 I had 3 slave servers, or 3 nodes, and one master node. According to theory, when a WRITE action occurs, the master sends the WAL to the slave nodes. It waits until all 3 slave nodes have synchronized before executing the command. This resulted in a DELAY - **increased LATENCY in WRITE actions**.
 
-However, if ONE OUT OF THE 3 NODES fails to synchronize, a problem occurs. The **ACTION WILL CONTINUE TO WAIT AND WILL NOT BE EXECUTED ON EITHER THE MASTER OR ANY NODE**. This is a a massive bottleneck
+However, if ONE OUT OF THE 3 NODES fails to synchronize, a problem occurs. The **ACTION WILL CONTINUE TO WAIT AND WILL NOT BE EXECUTED ON EITHER THE MASTER OR ANY NODE**.
+This is a **SINGLE POINT OF FAILURE**.
 
 ![](/media/blog/scale-database-with-master-slave/dif.png)
 
@@ -79,7 +79,7 @@ At this point, I think there are three main questions that people might have if 
 
 1. How to manage and monitor replication (streaming files) to know when there are errors, delays, etc.
 2. Design and code at the application layer to optimize READ and WRITE operations separately.
-3, Design and code at the application layer to switch to using the standby server when the master encounters issues, instead of accessing the master directly.
+3. Design and code at the application layer to switch to using the standby server when the master encounters issues, instead of accessing the master directly.
 
 ---
 
