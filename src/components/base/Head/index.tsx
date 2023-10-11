@@ -36,8 +36,8 @@ const Head: FunctionComponent<PropsWithChildren<Props>> = (props) => {
   const {
     title,
     slug,
-    description = 'Person from Vietnamese',
-    image = `${BASE_URL}/assets/images/authors/gading-talks.jpeg`,
+    description = 'Vietnamese',
+    image = `${BASE_URL}/assets/images/authors/minhdan.png`,
     date = day().format('YYYY-MM-DD'),
     keywords = '',
     tags = []
