@@ -7,7 +7,7 @@ image: "/media/banners/1.jpg"
 ---
 I am Dan, I was born 1998, 25 years old this year. I graduated from Hanoi University of Science and Technology (**HUST**) with major in **software development**. Until 2023, I have more than about **3.5 years** of experience in the field of developing digital products, especially **build product from scratch**
 
-I have various roles, from Backend Programming Developer to managing as a Product Manager and Tech Leader. `I'm looking for a full-time job` in digital product development in Asia as a __Product Manager__ or __**Backend Developer**__
+I have various roles, from Backend Programming Developer to managing as a PM and Tech Leader. `I'm looking for a full-time job` in digital product development in Asia as a __PM__ or __**Developer**__
 
 ---
 
@@ -59,6 +59,7 @@ I have various roles, from Backend Programming Developer to managing as a Produc
 #### 🏆 What I Accomplish ?
 
 1. Graduated Hanoi Univeristy Science and Technology with CPA: **3.0/4 - 2021**
+2. **Best Presentation** in Graduate Inforamtion System Council - 2021
 2. **Full Scholarship** from Moscow Institute of Physics and Technology
 3. **TOP 4 Coin98** Blockchain Hackathon
 4. **Talented Student** Scholarship by FUNIX-Kalapa

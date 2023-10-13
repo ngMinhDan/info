@@ -65,14 +65,8 @@ const Footer: FunctionComponent<Props> = (props) => {
         <Link className="inline-block" href={BASE_URL}>{SITE_NAME}</Link>
         <span className="inline-block mx-4">&bull;</span>
         <span className="inline-block mx-2">Build on Opensource</span>
-        {/* <Link className="inline-block text-primary mx-2" href="">
-        Opensource
-        </Link> */}
-        <div className="dark:text-white mt-8">
-          <Link className="inline-block text-primary" href="https://analytics.eu.umami.is/share/bfWCoiBeQ8g8cpEt/nmdan.com">
-            Analytics
-          </Link>
-        </div>
+        <span className="inline-block mx-4">&bull;</span>
+        <Link className="inline-block" href="https://analytics.eu.umami.is/share/bfWCoiBeQ8g8cpEt/nmdan.com">Share Analytics</Link>
       </div>
     </footer>
   );
