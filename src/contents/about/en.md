@@ -7,7 +7,7 @@ image: "/media/banners/1.jpg"
 ---
 I am Dan, I was born 1998, 25 years old this year. I graduated from Hanoi University of Science and Technology (**HUST**) with major in **software development**. Until 2023, I have more than about **3.5 years** of experience in the field of developing digital products, especially **build product from scratch**
 
-I have various roles, from Backend Programming Developer to managing as a PM and Tech Leader. `I'm looking for a full-time job` in digital product development in Asia as a __PM__ or __**Developer**__
+I have various roles, from Backend Programming Developer to managing as a PM and Tech Leader. `I'm looking for a full-time job` in Asia as a __PM__ or __**Developer**__
 
 ---
 
