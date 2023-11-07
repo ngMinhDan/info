@@ -11,10 +11,10 @@ In Vietnam, when people meet others, we often ask about ***what I'm doing right 
 > If you have your own site, maybe you should to make one, too.
 
 #### 🏡 Living
-I was born in the suburbs of Hanoi, Vietnam. Currently, I rent an apartment in the center of Hanoi. **I am actively seeking a full-time job in a foreign country to explore the world**. I'm young and eagerly looking forward to experiencing the wonders of the world
+I was born in the suburbs of Hanoi, Vietnam. Currently, I rent an apartment in the center of Hanoi. I'm young and eagerly looking forward to experiencing the wonders of the world
 
 #### 💼 Careers
-I'm currently available after leaving my position as a Product Manager at a startup company in Hanoi. Previously, I worked as a software developer after graduating from Hanoi University of Science and Technology (HUST)-2021
+I'm currently working at Vin Bigdata as a Backend Engineer. Previously, I worked as a software developer after graduating from Hanoi University of Science and Technology (HUST)-2021
 
 #### ☕️ Activities
 - Reading book and learn about business.

@@ -6,7 +6,7 @@ keywords: "minhdan.info, digital product, backend, python, poker, book"
 image: "/media/banners/1.jpg"
 ---
 
-I'm **looking** for a **full-time job** in Asia (Japan, Singapore, Malay, Thai, Vietnam...) as a **PM, BE Developer, Fresher...**
+I'm currently working full-time at Vin Bigdata as a Backend Engineer.
 
 Passionate about exploring and building digital products while taking into consideration **user utility, business viability, scalable systems, trends, and techniques**. Additionally, I am a fast learner when it comes to trying new things, have the ambition to grow myself, and excel at building effective teamwork
 
