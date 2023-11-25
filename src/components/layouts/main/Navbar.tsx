@@ -40,9 +40,11 @@ export interface Props {
 
 export const menus = [
   { label: 'Now', href: '/now' },
-  { label: 'Blog', href: '/blog' },
+  { label: 'Tech', href: '/blog' },
+  { label: 'Recap', href: '/recap' }
+
   // { label: 'Portfolio', href: '/portfolio' },
-  { label: 'About Me', href: '/about' }
+  // { label: 'About Me', href: '/about' }
 ];
 
 export const i18nList = new Map([

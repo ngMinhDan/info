@@ -1,8 +1,8 @@
 import type { GetStaticPathsResult, GetStaticPropsContext, GetStaticPropsResult, NextPage } from 'next';
 import { withMainLayoutPage } from '@/components/layouts';
-import { getBlogList, ContentBlogList } from '@/server/content-parser';
+import { getBlogList, ContentBlogList } from '@/server/content-parser-recap';
 import { BLOG_PAGINATION_LIMIT, DEFAULT_LOCALE } from '@/configs/env';
-import BlogPageList, { withLocales } from '@/components/layouts/blog/PageList';
+import BlogPageList, { withLocales } from '@/components/layouts/recap/PageList';
 import range from '@/utils/helpers/range';
 import { I18n } from '@/types/contents';
 
@@ -66,12 +66,12 @@ export default withMainLayoutPage(BlogPagingPage, ({ locale, page }) => {
   return {
     locale,
     meta: {
-      title: `Blog - Page ${page}`,
+      title: `Recap - Page ${page}`,
       date: '2023-01-01',
       image: '/media/banners/5.jpg',
-      keywords: 'nmdan writing, technical writing, blog nmdan, nmdan blog',
-      slug: `blog/page/${page}`,
-      tags: ['blog', 'writing', 'technical writing', 'nmdan'],
+      keywords: 'nmdan.com, blog, recap, book, life, technology',
+      slug: `recap/page/${page}`,
+      tags: ['blog', 'writing', 'technical writing', 'nmdan.com'],
       description: withLocales(locale).desc
     }
   };

@@ -21,7 +21,7 @@ export const getStaticProps = async(ctx: GetStaticPropsContext): Promise<GetStat
   } = ctx;
   const [contents, { contents: blogs }] = await Promise.all([
     getContentMultiLanguage('home', locale),
-    getBlogList(locale, { limit: 4 }),
+    getBlogList(locale, { limit: 6 }),
     generateRSSFeed()
   ]);
   return {

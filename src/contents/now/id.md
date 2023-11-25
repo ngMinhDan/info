@@ -30,11 +30,11 @@ image: "/media/banners/0.jpg"
 ラップ ミュージックが好きで、ポスト マローン、スヌープ ドッグ、トラヴィス スコットなどのアメリカの音楽歌手にとても興味があります。 Den Vau、16 Typh、Lil Wuyn、MCK などのベトナム人アーティストの音楽をよく聴きます。
 
 #### 💡 どんなテクノロジーを使っている
-- Python Django/Flask
+- Python Django/Flask/FastAPI
 - Golang Chi/Echo
-- Bots, Automation, Task Runner, Data Collection
-- Linux Server, RMDS/Postgres, Redis, Elastic Search, Kafka
-- AWS Cloud, S3, DynamoDB, EC2, Redshift
+- Postgres/MongoDB/Redis/Elastic Search
+- Kafka/Event Driven
+- Blockchain EVM/Bots/Automation
 > *And, I would be open-mind to learning other Tech Stacks if needed.*
 
 #### 🛠 毎日、どんなソフトウエアを使っている
